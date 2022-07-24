@@ -14,7 +14,7 @@ require (
 	github.com/portto/solana-go-sdk v1.18.0
 	github.com/shopspring/decimal v1.3.1
 	go.uber.org/atomic v1.9.0
-	google.golang.org/grpc v1.47.0
+	google.golang.org/grpc v1.48.0
 	google.golang.org/protobuf v1.28.0
 	gopkg.in/yaml.v2 v2.4.0
 )
