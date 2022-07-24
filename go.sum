@@ -132,8 +132,8 @@ github.com/mitchellh/mapstructure v1.4.1 h1:CpVNEelQCZBooIPDn+AR3NpivK/TIKU8bDxd
 github.com/mitchellh/pointerstructure v1.2.0 h1:O+i9nHnXS3l/9Wu7r4NrEdwA2VFTicjUEN1uBnDo34A=
 github.com/mr-tron/base58 v1.2.0 h1:T/HDJBh4ZCPbU39/+c3rRvE0uKBQlU27+QI8LJ4t64o=
 github.com/mr-tron/base58 v1.2.0/go.mod h1:BinMc/sQntlIE1frQmRFPUoPA1Zkr8VRgBdjWI2mNwc=
-github.com/nanmu42/etherscan-api v1.7.0 h1:b50tGqSRj8+fcrQAuttdJiY24hprVSasGwLDNZ7vSpE=
-github.com/nanmu42/etherscan-api v1.7.0/go.mod h1:CmsVjoXu6wovJhK0WfLhdmQerFqVFKypHdSgjfM43H8=
+github.com/nanmu42/etherscan-api v1.8.0 h1:Ld9a6eQQO5uSLbZZHyv6VPKyyqMjPPfp+MeXSHYMNv8=
+github.com/nanmu42/etherscan-api v1.8.0/go.mod h1:CmsVjoXu6wovJhK0WfLhdmQerFqVFKypHdSgjfM43H8=
 github.com/near/borsh-go v0.3.1-0.20210831082424-4377deff6791/go.mod h1:NeMochZp7jN/pYFuxLkrZtmLqbADmnp/y1+/dL+AsyQ=
 github.com/olekukonko/tablewriter v0.0.5 h1:P2Ga83D34wi1o9J6Wh1mRuqd4mF/x/lgBS7N7AbDhec=
 github.com/onsi/ginkgo v1.6.0/go.mod h1:lLunBs/Ym6LB5Z9jYTR76FiuTmxDTDusOGeTQH+WWjE=

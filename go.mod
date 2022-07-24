@@ -9,7 +9,7 @@ require (
 	github.com/golang/protobuf v1.5.2
 	github.com/hashicorp/golang-lru v0.5.5-0.20210104140557-80c98217689d
 	github.com/mr-tron/base58 v1.2.0
-	github.com/nanmu42/etherscan-api v1.7.0
+	github.com/nanmu42/etherscan-api v1.8.0
 	github.com/pkg/errors v0.9.1
 	github.com/portto/solana-go-sdk v1.18.0
 	github.com/shopspring/decimal v1.3.1
